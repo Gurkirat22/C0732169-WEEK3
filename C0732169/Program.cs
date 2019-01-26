@@ -10,6 +10,14 @@ namespace C0732169
     {
         static void Main(string[] args)
         {
+
         }
+    }
+
+    class Node
+    {
+        Node PreviousNode;
+
+        Node NextNode;
     }
 }
